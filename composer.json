@@ -13,12 +13,6 @@
             "email": "eduguscontra3@hotmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/laravel-shift/laravel-mail-auto-embed.git"
-        }
-    ],
     "require": {
         "php": ">5.5.0",
         "ext-intl": "*",
@@ -29,7 +23,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-openssl": "*",
-        "eduardokum/laravel-mail-auto-embed": "dev-l13-compatibility",
+        "gabrielrbarbosa/laravel-mail-auto-embed-13": "0.13",
         "chillerlan/php-qrcode": "^3.0|^4.0|^5.0"
     },
     "require-dev": {
