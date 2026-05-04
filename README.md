@@ -1,8 +1,7 @@
-[![Packagist](https://img.shields.io/packagist/v/eduardokum/laravel-boleto.svg?style=flat-square)](https://github.com/eduardokum/laravel-boleto)
-[![Packagist](https://img.shields.io/packagist/dt/eduardokum/laravel-boleto.svg?style=flat-square)](https://github.com/eduardokum/laravel-boleto)
-[![Packagist](https://img.shields.io/packagist/l/eduardokum/laravel-boleto.svg?style=flat-square)](https://github.com/eduardokum/laravel-boleto)
-[![build](https://github.com/eduardokum/laravel-boleto/actions/workflows/build.yml/badge.svg)](https://github.com/eduardokum/laravel-boleto/actions/workflows/build.yml)
-[![GitHub forks](https://img.shields.io/github/forks/eduardokum/laravel-boleto.svg?style=social&label=Fork)](https://github.com/eduardokum/laravel-boleto)
+[![Packagist](https://img.shields.io/packagist/v/gabrielrbarbosa/laravel-boleto-12.svg?style=flat-square)](https://github.com/gabrielrbarbosa/laravel-boleto-12)
+[![Packagist](https://img.shields.io/packagist/dt/gabrielrbarbosa/laravel-boleto-12.svg?style=flat-square)](https://github.com/gabrielrbarbosa/laravel-boleto-12)
+[![Packagist](https://img.shields.io/packagist/l/gabrielrbarbosa/laravel-boleto-12.svg?style=flat-square)](https://github.com/gabrielrbarbosa/laravel-boleto-12)
+[![Laravel Compatibility](https://badge.laravel.cloud/badge/gabrielrbarbosa/laravel-boleto-12)](https://packagist.org/packages/gabrielrbarbosa/laravel-boleto-12)
 
 # Laravel Boleto
 Pacote para gerar boletos, remessas e leitura de retorno.
